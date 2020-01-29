@@ -1,0 +1,80 @@
+.carousel-inner{
+    width: 650px;
+    height: 515px;
+    max-height: 515px;
+    margin: auto; 
+    display: block;
+    }
+.jumbotron{
+    font-family: 'Oswald', sans-serif;
+    background-image:url(background2.jpg);
+    background-size: 100% 100%;
+}
+.navbar-brand{
+    font-family: 'Oswald', sans-serif;
+    font-size: 150%;
+    font-weight: 10;
+}
+.nav-item{
+    font-family: 'Oswald', sans-serif;
+}
+.carousel-control-prev{
+    color: grey;
+}
+.carousel-control-next{
+    color: grey;
+}
+.fillertext{
+    font-family:'Oswald',sans-serif;
+    font-size: 150%;
+    text-align: center;
+    
+}
+.table{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+.logotitle{
+    font-size: 150%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+i.fa-chalkboard-teacher{
+    font-size: 500%;
+    text-align: center;
+}
+i.fa-handshake{
+    font-size: 500%;
+    text-align: center;
+}
+i.fa-clipboard-check{
+    font-size: 500%;
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.card-group{
+    border: none;
+}
+.card{
+    border: none;
+}
+.form-master{
+    padding-left: 50px;
+    padding-right: 400px;
+}
+.contact-dropdown{
+    padding-left: -100px;
+}
+.footer{
+    padding-bottom: 25px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size:10px;
+}
+.footer-icons{
+    font-size: 15px;
+    text-align:center;
+}
